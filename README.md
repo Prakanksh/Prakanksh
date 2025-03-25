@@ -11,5 +11,4 @@ I'm a passionate Full Stack Developer 🚀 with expertise in:
 📫 Feel free to connect with me!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Prakanksh&color=blue)
-![snake gif](https://github.com/Prakanksh/Prakanksh/blob/output/github-contribution-grid-snake.svg)
 
