@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer 🚀 with expertise in:
 - ☁️ Cloud Platforms: GCP, Vercel
 - 🧘 Yoga Trainer | Cat Lover | NCC Certified 💪
 
-🌱 I’m currently learning more about security best practices and cloud technologies.
+🌱 I’m learning Node.js, DSA, and working on exciting projects.
 📫 Feel free to connect with me!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Prakanksh&color=blue)
